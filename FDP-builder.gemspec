@@ -3,8 +3,8 @@
 require_relative "lib/FDP/builder/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "FDP-builder"
-  spec.version       = FDP::VERSION
+  spec.name          = "fdpbuilder"
+  spec.version       = FDP::Builder::VERSION
   spec.authors       = ["Mark Wilkinson"]
   spec.email         = ["markw@illuminae.com"]
 
