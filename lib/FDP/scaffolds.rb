@@ -1,4 +1,4 @@
-CATALOGINIT = = <<END
+CATALOGINIT = <<END
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
